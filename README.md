@@ -1,7 +1,7 @@
+<h1 align="center"> ElsCorporation; </h1>
 
 
-
-Olá, meu nome é Edinho Lima dos Santos;\n
+Olá, meu nome é Edinho Lima dos Santos;
 Seja bem-vindo(a) ao meu perfil do GitHub!;
 
 Sou formado em Jogos Digitais pela faculdade Uniritter.;
