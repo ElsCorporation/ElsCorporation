@@ -1,3 +1,6 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
 Olá, meu nome é Edinho Lima dos Santos;
 Seja bem-vindo(a) ao meu perfil do GitHub!;
 
