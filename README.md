@@ -1,4 +1,4 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 
 
 Olá, meu nome é Edinho Lima dos Santos;
@@ -8,6 +8,7 @@ Sou formado em Jogos Digitais pela faculdade Uniritter.;
 Aos poucos, estou aprendendo a programar e cultivando uma paixão pelo mesmo.;
 
 Linguagens que estou aprendendo no momento:
-<i class="devicon-javascript-plain colored"></i> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
 
 
