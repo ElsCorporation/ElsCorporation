@@ -1,7 +1,7 @@
 
 
 
-Olá, meu nome é Edinho Lima dos Santos;
+Olá, meu nome é Edinho Lima dos Santos;\n
 Seja bem-vindo(a) ao meu perfil do GitHub!;
 
 Sou formado em Jogos Digitais pela faculdade Uniritter.;
